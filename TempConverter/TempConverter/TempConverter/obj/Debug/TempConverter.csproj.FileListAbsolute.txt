@@ -1,0 +1,6 @@
+C:\Users\Perry\Documents\visual studio projects\convertStuff\TempConverter\TempConverter\TempConverter\bin\Debug\TempConverter.exe.config
+C:\Users\Perry\Documents\visual studio projects\convertStuff\TempConverter\TempConverter\TempConverter\bin\Debug\TempConverter.exe
+C:\Users\Perry\Documents\visual studio projects\convertStuff\TempConverter\TempConverter\TempConverter\bin\Debug\TempConverter.pdb
+C:\Users\Perry\Documents\visual studio projects\convertStuff\TempConverter\TempConverter\TempConverter\obj\Debug\TempConverter.csprojResolveAssemblyReference.cache
+C:\Users\Perry\Documents\visual studio projects\convertStuff\TempConverter\TempConverter\TempConverter\obj\Debug\TempConverter.exe
+C:\Users\Perry\Documents\visual studio projects\convertStuff\TempConverter\TempConverter\TempConverter\obj\Debug\TempConverter.pdb
